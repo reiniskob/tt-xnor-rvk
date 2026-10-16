@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+XNOR logic gate using NAND, OR, NOT
 
 ## How to test
 
-Explain how to use your project
+IN1 (X) IN2 = OUT
 
 ## External hardware
 
